@@ -1,1 +1,7 @@
-# Chinese-Checkers
+# 中國跳棋 C++ 版
+這是一個使用 C++ 製作的文字介面中國跳棋。
+
+## 如何編譯與執行
+1. 下載 `main.cpp`
+2. 使用編譯器：`g++ main.cpp -o game`
+3. 執行：`./game`
